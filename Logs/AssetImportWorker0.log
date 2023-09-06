@@ -1716,3 +1716,19 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 8669.595438 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(69de5b7ef729e4b9591346501655bcb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(69de5b7ef729e4b9591346501655bcb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8745945f42ebcc8c09e937b4b09aa912') in 0.036527 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/Piso.mat
+  artifactKey: Guid(2907140f6695d4856988243574dfdd80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Piso.mat using Guid(2907140f6695d4856988243574dfdd80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43bd364a72742941f000e15c8c2b7d6e') in 0.147988 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
